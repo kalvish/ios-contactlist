@@ -1,1 +1,1 @@
-http://stackoverflow.com/questions/13976555/address-book-contact-sorting -
+\n https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/TableView_iPhone/CreateConfigureTableView/CreateConfigureTableView.html \n https://www.appcoda.com/ios-programming-index-list-uitableview/ -
